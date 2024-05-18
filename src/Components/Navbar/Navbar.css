@@ -115,15 +115,7 @@ button{
   height: 50px;
   border-radius: 50%;
 }
-.toggle_dark {
-    background-color: rgb(232, 212, 177);
-    color: white;
-}
 
-.toggle_light {
-    background-color: #515151;
-    color: white;
-}
 
 .change {
     width: 50px;
