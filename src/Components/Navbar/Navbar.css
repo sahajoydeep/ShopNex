@@ -85,7 +85,7 @@
     background: linear-gradient(180deg, black, #e1ffea22 90%);
 }
 .pnav_dark{
-    color: aqua;
+    color: #171717;
     font-size: 38px;
     font-weight: 600;
 }
@@ -103,7 +103,7 @@ button{
 }
 
 .toggle_dark{
-  background-color: aqua;
+  background-color:orange;
   color: white;
 }
 .toggle_light{
@@ -115,7 +115,15 @@ button{
   height: 50px;
   border-radius: 50%;
 }
+.toggle_dark {
+    background-color: rgb(232, 212, 177);
+    color: white;
+}
 
+.toggle_light {
+    background-color: #515151;
+    color: white;
+}
 
 .change {
     width: 50px;
@@ -132,5 +140,3 @@ button{
     width: 80%;
     height: auto;
 }
-
-
