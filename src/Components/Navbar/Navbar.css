@@ -82,7 +82,7 @@
     height: 50px;
 }
 .dark{
-    background: linear-gradient(180deg, black, #e1ffea22 90%);
+    background: linear-gradient(180deg, black, #e1ffea22);
 }
 .pnav_dark{
     color: #171717;
@@ -103,7 +103,7 @@ button{
 }
 
 .toggle_dark{
-  background-color:orange;
+  background-color: aqua;
   color: white;
 }
 .toggle_light{
