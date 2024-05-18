@@ -82,7 +82,7 @@
     height: 50px;
 }
 .dark{
-    background: linear-gradient(180deg, black, #e1ffea22);
+    background: linear-gradient(180deg, black, #e1ffea22 90%);
 }
 .pnav_dark{
     color: #171717;
