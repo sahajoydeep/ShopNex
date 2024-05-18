@@ -3,8 +3,8 @@ import './Navbar.css';
 import logo from '../Assets/logo.png';
 import cart_icon from '../Assets/cart_icon.png';
 import cart_icon_dark from '../Assets/cart_icon_dark.png';
-import moonIcon from '../Assets/dark_mode.png';
-import sunIcon from '../Assets/light_mode.png';
+import moonIcon from '../Assets/moon.png';
+import sunIcon from '../Assets/sun.png';
 import { Link } from 'react-router-dom';
 import { ShopContext } from '../../Context/ShopContext';
 
